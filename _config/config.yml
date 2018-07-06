@@ -4,6 +4,6 @@ Name: silverstripe-inline-image-quality
 SilverStripe\Assets\Image:
   extensions:
     - Kinglozzer\SilverStripeInlineImageQuality\Extensions\ImageExtension
-SilverStripe\Assets\File:
+SilverStripe\Assets\Storage\DBFile:
   extensions:
     - Kinglozzer\SilverStripeInlineImageQuality\Extensions\ImageExtension
