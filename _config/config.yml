@@ -1,0 +1,9 @@
+---
+Name: silverstripe-inline-image-quality
+---
+SilverStripe\Assets\Image:
+  extensions:
+    - Kinglozzer\SilverStripeInlineImageQuality\Extensions\ImageExtension
+SilverStripe\Assets\File:
+  extensions:
+    - Kinglozzer\SilverStripeInlineImageQuality\Extensions\ImageExtension

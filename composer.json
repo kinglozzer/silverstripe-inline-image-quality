@@ -1,0 +1,14 @@
+{
+	"name": "kinglozzer/silverstripe-inline-image-quality",
+	"type": "silverstripe-vendormodule",
+	"description": "Allows setting image quality on a per-image basis in templates.",
+	"require": {
+		"silverstripe/assets": "^1",
+		"silverstripe/framework": "^4"
+	},
+	"autoload": {
+        "psr-4": {
+            "Kinglozzer\\SilverStripeInlineImageQuality\\": "src/"
+        }
+    }
+}
