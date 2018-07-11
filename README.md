@@ -1,3 +1,9 @@
+# ! Abandoned !
+
+Please use https://github.com/chrometoasters/silverstripe-image-quality instead
+
+---
+
 # SilverStripe inline image quality
 
 Allows setting image quality on a per-image basis in templates.
