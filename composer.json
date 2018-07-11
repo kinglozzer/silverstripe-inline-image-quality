@@ -10,5 +10,6 @@
         "psr-4": {
             "Kinglozzer\\SilverStripeInlineImageQuality\\": "src/"
         }
-    }
+    },
+    "abandoned": "chrometoaster/silverstripe-image-quality"
 }
